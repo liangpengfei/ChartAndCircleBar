@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/classes-4e5be606bea75c1cd44fb8283000383a1c7e8f18.jar" />
+    </item>
+    <item
+        jar="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/classes-b91924d511eb1ad17b5c40cfb6542ddfc3baf61c.jar" />
+    </item>
+    <item
+        jar="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-01e299bf4dab89860e877a61c464e9faf1f57ff8.jar" />
+    </item>
+    <item
+        jar="/Users/fei/Dev/Android/Tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-af079e212abac63105181bdaa9210ddbc558a8ff.jar" />
+    </item>
+    <item
+        jar="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/classes-843c2040c3b63fe49a947b2d7cf487c655c35d59.jar" />
+    </item>
+    <item
+        jar="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/fei/Dev/Android/Projects/Chart/app/build/intermediates/pre-dexed/debug/classes-de02e2eb72a130c2abe819088d02edc41f75bdc9.jar" />
+    </item>
+
+</items>
